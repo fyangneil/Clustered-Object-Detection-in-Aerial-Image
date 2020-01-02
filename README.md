@@ -3,7 +3,7 @@ The repo is about our recent work on object detection in aerial image, the paper
 
 # Installing codebase
 1. The work is implemented based on [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile) , please install it according to the corresponding instruction.
-2. lone the repo 
+2. Clone the repo 
 ```shell
 git clone https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image.git.
 ```
