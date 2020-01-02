@@ -3,7 +3,11 @@ The repo is about our recent work on object detection in aerial image, the paper
 
 # Installing codebase
 1. The work is implemented based on [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile) , please install it according to the corresponding instruction.
-2. git clone git@github.com:fyangneil/ClusDet.git. Please follow the instruction in [Detectron](https://github.com/facebookresearch/Detectron) to install the repo.
+2. clone the repo 
+```shell
+git clone https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image.git.
+```
+Please follow the instruction in [Detectron](https://github.com/facebookresearch/Detectron) to install the repo.
 # Generating cluster region ground truth
 Here, we use VisDrone dataset as an example to demonstrate the process to generate cluster region ground truth.
 1. run "./detectron/ops/add_cluster_annotation.m" to generate cluster ground truth and add it to original object annotation files.
