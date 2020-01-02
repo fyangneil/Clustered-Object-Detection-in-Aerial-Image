@@ -43,7 +43,7 @@ python tools/test_net.py \
  ``` 
 # Fuse the detections from global images and cluster chips
  run "./detectron/ops/fuse_global_cluster_detections.m"
-
+# Cite 
 @InProceedings{Yang_2019_ICCV,
 author = {Yang, Fan and Fan, Heng and Chu, Peng and Blasch, Erik and Ling, Haibin},
 title = {Clustered Object Detection in Aerial Images},
