@@ -47,6 +47,8 @@ python tools/test_net.py \
  ``` 
 # Fuse the detections from global images and cluster chips
  run "./detectron/ops/fuse_global_cluster_detections.m"
+# Note
+If you want to crop the image evenly, run "./detectron/ops/evenly_image_partition.m"
 # Cite 
 >@InProceedings{Yang_2019_ICCV,
 author = {Yang, Fan and Fan, Heng and Chu, Peng and Blasch, Erik and Ling, Haibin},
