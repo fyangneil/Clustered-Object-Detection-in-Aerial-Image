@@ -49,6 +49,10 @@ python tools/test_net.py \
  run "./detectron/ops/fuse_global_cluster_detections.m"
 # Note
 If you want to crop the image evenly, run "./detectron/ops/evenly_image_partition.m"
+
+**If you have any questions regarding the code, please feel free to contact me fyang@temple.edu
+If you like this project, feel free to leave a star. (^^)**
+
 # Cite 
 >@InProceedings{Yang_2019_ICCV,
 author = {Yang, Fan and Fan, Heng and Chu, Peng and Blasch, Erik and Ling, Haibin},
@@ -58,6 +62,4 @@ month = {October},
 year = {2019}
 }
 
-If you have any questions regarding the code, please feel free to contact me fyang@temple.edu
-If you like this project, feel free to leave a star. (^^)
  
