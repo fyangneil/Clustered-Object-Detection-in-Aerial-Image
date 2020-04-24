@@ -1,5 +1,5 @@
 # Clustered-Object-Detection-in-Aerial-Image
-The repo is about our recent work on object detection in aerial image, the paper of the work "Clustered Object Detection in Aerial Image" (ICCV2019) and its supplementatry are available [here](https://drive.google.com/drive/folders/1qnqEXIkraCbdWW-WFRcLqIcLTKdPvyPc?usp=sharing).
+The repo is about our recent work on object detection in aerial image, the paper of the work "Clustered Object Detection in Aerial Image" (ICCV2019) and its supplementatry are available [here](https://drive.google.com/drive/folders/1qnqEXIkraCbdWW-WFRcLqIcLTKdPvyPc?usp=sharing). **If you like this project, feel free to leave a star. (^^)**
 
 # Installing codebase
 1. The work is implemented based on [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile) , please install it according to the corresponding instruction.
@@ -50,8 +50,7 @@ python tools/test_net.py \
 # Note
 If you want to crop the image evenly, run "./detectron/ops/evenly_image_partition.m"
 
-**If you have any questions regarding the code, please feel free to contact me fyang@temple.edu
-If you like this project, feel free to leave a star. (^^)**
+**If you have any questions regarding the code, please feel free to contact me fyang@temple.edu**
 
 # Cite 
 >@InProceedings{Yang_2019_ICCV,
