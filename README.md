@@ -1,5 +1,5 @@
 # Clustered-Object-Detection-in-Aerial-Image
-The repo is about our recent work on object detection in aerial image, the paper of the work "Clustered Object Detection in Aerial Image" (ICCV2019) and its supplementatry are available [here](https://drive.google.com/drive/folders/1qnqEXIkraCbdWW-WFRcLqIcLTKdPvyPc?usp=sharing). **If you think this project is useful for you, feel free to leave a star. (^^)**
+The repo is about our recent work on object detection in aerial image, the paper of the work "Clustered Object Detection in Aerial Image" (ICCV2019) and its supplementatry are available [here](https://drive.google.com/drive/folders/1qnqEXIkraCbdWW-WFRcLqIcLTKdPvyPc?usp=sharing) or [ResearchGate](https://www.researchgate.net/publication/335393286_ClusDet-supppdf). **If you think this project is useful for you, feel free to leave a star. (^^)**
 
 # Installing codebase
 1. The work is implemented based on [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile) , please install it according to the corresponding instruction.
